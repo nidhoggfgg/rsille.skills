@@ -1,0 +1,4 @@
+interface:
+  display_name: "rsille Terminal Apps"
+  short_description: "Build Rust terminal apps and graphics with rsille"
+  default_prompt: "Use $rsille to build a Rust terminal application with widgets, input handling, and headless tests."
