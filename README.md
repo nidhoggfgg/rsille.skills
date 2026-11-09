@@ -16,7 +16,7 @@ You can also copy the complete `rsille/` directory into your agent's skills dire
 
 ## Included skill
 
-[rsille](rsille/SKILL.md) targets rsille 3.0.2 and covers widgets, layouts,
+[rsille](rsille/SKILL.md) targets rsille 3.0.3 and covers widgets, layouts,
 background tasks, input handling, Canvas graphics, animation, and headless tests.
 It includes a [component catalog](rsille/references/components.md) and a
 [standalone application starter](rsille/assets/starter).

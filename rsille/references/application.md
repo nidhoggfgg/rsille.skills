@@ -1,6 +1,6 @@
 # Application development
 
-These contracts match rsille 3.0.2. Source links below use the upstream default
+These contracts match rsille 3.0.3. Source links below use the upstream default
 branch; check the application's resolved rsille version before adopting a newer
 API. In a checkout, the linked paths also identify the local implementation.
 

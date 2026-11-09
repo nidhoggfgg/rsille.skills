@@ -5,6 +5,6 @@ edition = "2021"
 publish = false
 
 [dependencies]
-rsille = "3.0.2"
+rsille = "3.0.3"
 
 [workspace]
