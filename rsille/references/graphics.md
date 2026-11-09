@@ -1,6 +1,6 @@
 # Canvas, visual effects, and direct rendering
 
-These patterns target rsille 3.0.3. Use `rsille::tui::prelude::*` for embedded
+These patterns target rsille 3.0.4. Use `rsille::tui::prelude::*` for embedded
 graphics and widgets; use `rsille::{canvas, render}` for standalone drawing.
 
 ## Choose coordinates and encoding

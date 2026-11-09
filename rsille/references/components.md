@@ -1,7 +1,7 @@
 # Component and layout catalog
 
 Use this catalog **before implementing a UI feature** to find an existing rsille
-component. It covers the public widget and layout constructors in **rsille 3.0.3**,
+component. It covers the public widget and layout constructors in **rsille 3.0.4**,
 plus `VirtualList::new`. Import `rsille::tui::prelude::*` for the constructors below.
 Names in constructor arguments describe the required input; they are not literal
 variables supplied by the framework. Add `::<Msg>` when message inference needs help.
