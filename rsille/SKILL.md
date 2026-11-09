@@ -6,7 +6,7 @@ description: Build, extend, debug, and test Rust terminal applications with the 
 # Develop with rsille
 
 Build applications against rsille's public Rust API. These instructions and the
-bundled starter target **rsille 3.0.1 (v3)**. Inspect the application's `Cargo.toml`
+bundled starter target **rsille 3.0.2 (v3)**. Inspect the application's `Cargo.toml`
 and lockfile first; preserve its dependency choices and verify differences when
 it uses another version.
 
@@ -18,7 +18,7 @@ it uses another version.
 | Graphics embedded beside controls | TUI `canvas(...)` and its viewport |
 | A drawing or custom whole-scene renderer | `rsille::canvas` and `rsille::render::Builder` |
 
-Depend on `rsille = "3.0.1"` and use its public modules: `rsille::tui` for
+Depend on `rsille = "3.0.2"` and use its public modules: `rsille::tui` for
 applications and widgets, `rsille::render` for rendering, and `rsille::canvas`
 for graphics. Use these module paths when adapting repository example imports.
 Default features are empty; add `features = ["syntax-highlighting"]` only when
